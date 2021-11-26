@@ -26,6 +26,6 @@ __Short_cut keys for search bar:__
 Other shortCuts:__
 
 
-		ctrl+ s    : to enter or exit search bar
+		ctrl+s    : to enter or exit search bar
 		ctrl+a    : to add new accounts
-		ctrl + x  : destroy new account creation frame
+		ctrl+x  : destroy new account creation frame
