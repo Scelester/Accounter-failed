@@ -18,14 +18,14 @@ It can :-
 __Short_cut keys for search bar:__
 
 
-		`..e`    :  check for math errors in accounts
-		`..an`   :	 show total number of with account name.
-		`..n`    :  show total number of acounts without account name.
-		`..madd` :  open export from excel dialog box.
+		..e    :  check for math errors in accounts
+		..an   :	 show total number of with account name.
+		..n    :  show total number of acounts without account name.
+		..madd :  open export from excel dialog box.
 
 Other shortCuts:__
 
 
-		`ctrl+ s`    : to enter or exit search bar
-		`ctrl+a`    : to add new accounts
-		`ctrl + x`  : destroy new account creation frame
+		ctrl+ s    : to enter or exit search bar
+		ctrl+a    : to add new accounts
+		ctrl + x  : destroy new account creation frame
