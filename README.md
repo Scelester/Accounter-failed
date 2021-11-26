@@ -24,6 +24,8 @@ __Short_cut keys for search bar:__
 		`..madd` :  open export from excel dialog box.
 
 Other shortCuts:__
+
+
 		`ctrl+ s`    : to enter or exit search bar
 		`ctrl+a`    : to add new accounts
 		`ctrl + x`  : destroy new account creation frame
