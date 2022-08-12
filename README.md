@@ -1,5 +1,5 @@
 # Accounter-failed
-app created using Python tkinter 
+app created using Python tkinter [for my dads accounts work]
 
 This is one of the first python project i created using tkinter to help manage accounts, as a replacent for excel.
 
